@@ -1,0 +1,1274 @@
+{
+  "RepoLens/test_gemma.py": {
+    "mtime": 1793382213.56645,
+    "seen": 1793383114.4738803,
+    "ast_hash": "8b1bb29033aa0f8421e75de1af02c3cc",
+    "semantic_hash": "8b1bb29033aa0f8421e75de1af02c3cc"
+  },
+  "RepoLens/.github/copilot-instructions.md": {
+    "mtime": 1793382510.4480023,
+    "seen": 1793383114.4738803,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": "ec2dc0dc7bef63488889f34de2f5584d"
+  },
+  "RepoLens/app.py": {
+    "mtime": 1793424641.798491,
+    "seen": 1793425773.5757766,
+    "ast_hash": "153b6c71a28630c1ac6233e916fed12b",
+    "semantic_hash": "153b6c71a28630c1ac6233e916fed12b"
+  },
+  "RepoLens/repositories/flask/.devcontainer/devcontainer.json": {
+    "mtime": 1793424996.483535,
+    "seen": 1793425773.5757766,
+    "ast_hash": "bd52cc9756886df90e2a03ed5e137f0c",
+    "semantic_hash": "bd52cc9756886df90e2a03ed5e137f0c"
+  },
+  "RepoLens/repositories/flask/.devcontainer/on-create-command.sh": {
+    "mtime": 1793424996.4845445,
+    "seen": 1793425773.5757766,
+    "ast_hash": "a4d4fdca7e8f7e631f52c9055e74f2c8",
+    "semantic_hash": "a4d4fdca7e8f7e631f52c9055e74f2c8"
+  },
+  "RepoLens/repositories/flask/.github/ISSUE_TEMPLATE/config.yml": {
+    "mtime": 1793424996.4886012,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f7b6771f40b169808c7814888285b3f3",
+    "semantic_hash": "f7b6771f40b169808c7814888285b3f3"
+  },
+  "RepoLens/repositories/flask/.github/workflows/lock.yaml": {
+    "mtime": 1793424996.4935448,
+    "seen": 1793425773.5757766,
+    "ast_hash": "2ab9f134b1ab66d4f76c8c91bb97a654",
+    "semantic_hash": "2ab9f134b1ab66d4f76c8c91bb97a654"
+  },
+  "RepoLens/repositories/flask/.github/workflows/pre-commit.yaml": {
+    "mtime": 1793424996.4945445,
+    "seen": 1793425773.5757766,
+    "ast_hash": "33bee026f9deeb0470176692c3b69fd4",
+    "semantic_hash": "33bee026f9deeb0470176692c3b69fd4"
+  },
+  "RepoLens/repositories/flask/.github/workflows/publish.yaml": {
+    "mtime": 1793424996.496544,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d838d7eabf3a70ef2e33f10a36c78982",
+    "semantic_hash": "d838d7eabf3a70ef2e33f10a36c78982"
+  },
+  "RepoLens/repositories/flask/.github/workflows/tests.yaml": {
+    "mtime": 1793424996.496544,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d1bcaac2729c89f99676fbc01dfce980",
+    "semantic_hash": "d1bcaac2729c89f99676fbc01dfce980"
+  },
+  "RepoLens/repositories/flask/.github/workflows/zizmor.yaml": {
+    "mtime": 1793424996.4975445,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1e90af6617526fa7c8cb387ac9f78fd6",
+    "semantic_hash": "1e90af6617526fa7c8cb387ac9f78fd6"
+  },
+  "RepoLens/repositories/flask/.pre-commit-config.yaml": {
+    "mtime": 1793424996.5000255,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b9865a82ecd8e96226421cd9d58a0815",
+    "semantic_hash": "b9865a82ecd8e96226421cd9d58a0815"
+  },
+  "RepoLens/repositories/flask/.readthedocs.yaml": {
+    "mtime": 1793424996.5000255,
+    "seen": 1793425773.5757766,
+    "ast_hash": "6222ad9bfc3545486ce35f349ce7d858",
+    "semantic_hash": "6222ad9bfc3545486ce35f349ce7d858"
+  },
+  "RepoLens/repositories/flask/docs/conf.py": {
+    "mtime": 1793424996.5138366,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f37cf13591f4644c5714c09e341f824c",
+    "semantic_hash": "f37cf13591f4644c5714c09e341f824c"
+  },
+  "RepoLens/repositories/flask/examples/celery/make_celery.py": {
+    "mtime": 1793424996.567344,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ef0fb3c2442073e2ed4ead42aa50b373",
+    "semantic_hash": "ef0fb3c2442073e2ed4ead42aa50b373"
+  },
+  "RepoLens/repositories/flask/examples/celery/pyproject.toml": {
+    "mtime": 1793424996.568349,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b40aa72e824ef450189c7c8221fc189f",
+    "semantic_hash": "b40aa72e824ef450189c7c8221fc189f"
+  },
+  "RepoLens/repositories/flask/examples/celery/src/task_app/__init__.py": {
+    "mtime": 1793424996.57038,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ade4c75f1f964bed304955bf08229c23",
+    "semantic_hash": "ade4c75f1f964bed304955bf08229c23"
+  },
+  "RepoLens/repositories/flask/examples/celery/src/task_app/tasks.py": {
+    "mtime": 1793424996.571818,
+    "seen": 1793425773.5757766,
+    "ast_hash": "7d09aacb6309492a8ba8f8676eca7e14",
+    "semantic_hash": "7d09aacb6309492a8ba8f8676eca7e14"
+  },
+  "RepoLens/repositories/flask/examples/celery/src/task_app/views.py": {
+    "mtime": 1793424996.572719,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ec67c359837a1fdbae6e74d91d5fcc83",
+    "semantic_hash": "ec67c359837a1fdbae6e74d91d5fcc83"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/__init__.py": {
+    "mtime": 1793424996.5751624,
+    "seen": 1793425773.5757766,
+    "ast_hash": "171e9c06bea8942f905464b42584c789",
+    "semantic_hash": "171e9c06bea8942f905464b42584c789"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/views.py": {
+    "mtime": 1793424996.5791721,
+    "seen": 1793425773.5757766,
+    "ast_hash": "0dac1d11cc669aef02cdaceac0ecb0b8",
+    "semantic_hash": "0dac1d11cc669aef02cdaceac0ecb0b8"
+  },
+  "RepoLens/repositories/flask/examples/javascript/pyproject.toml": {
+    "mtime": 1793424996.5791721,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ef5f5940b04ba033d8e73031cf680151",
+    "semantic_hash": "ef5f5940b04ba033d8e73031cf680151"
+  },
+  "RepoLens/repositories/flask/examples/javascript/tests/conftest.py": {
+    "mtime": 1793424996.5801666,
+    "seen": 1793425773.5757766,
+    "ast_hash": "55af51b55bbe93580a2ac9010a9eb395",
+    "semantic_hash": "55af51b55bbe93580a2ac9010a9eb395"
+  },
+  "RepoLens/repositories/flask/examples/javascript/tests/test_js_example.py": {
+    "mtime": 1793424996.5801666,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f32576a5a41d4b4da1c94273679094c3",
+    "semantic_hash": "f32576a5a41d4b4da1c94273679094c3"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/__init__.py": {
+    "mtime": 1793424996.5834658,
+    "seen": 1793425773.5757766,
+    "ast_hash": "2895cd2fb2ae3f8b335c0f3e2ff49a26",
+    "semantic_hash": "2895cd2fb2ae3f8b335c0f3e2ff49a26"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/auth.py": {
+    "mtime": 1793424996.5845652,
+    "seen": 1793425773.5757766,
+    "ast_hash": "c767910c7db2b0f4d5ec716736a009a2",
+    "semantic_hash": "c767910c7db2b0f4d5ec716736a009a2"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/blog.py": {
+    "mtime": 1793424996.5855694,
+    "seen": 1793425773.5757766,
+    "ast_hash": "44a383d4adeaf18e23f602fe6044fbce",
+    "semantic_hash": "44a383d4adeaf18e23f602fe6044fbce"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/db.py": {
+    "mtime": 1793424996.5855694,
+    "seen": 1793425773.5757766,
+    "ast_hash": "9cc6c12eb4f570e22d6d309c6f69228f",
+    "semantic_hash": "9cc6c12eb4f570e22d6d309c6f69228f"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/schema.sql": {
+    "mtime": 1793424996.5855694,
+    "seen": 1793425773.5757766,
+    "ast_hash": "bf7c84a158ddd2daf47919fdfb844b88",
+    "semantic_hash": "bf7c84a158ddd2daf47919fdfb844b88"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/pyproject.toml": {
+    "mtime": 1793424996.592444,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1ea56ad5806c04e3a2f9069c8f00fa8e",
+    "semantic_hash": "1ea56ad5806c04e3a2f9069c8f00fa8e"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/conftest.py": {
+    "mtime": 1793424996.592444,
+    "seen": 1793425773.5757766,
+    "ast_hash": "c71e3d3ad4820141142fb33b4b327b82",
+    "semantic_hash": "c71e3d3ad4820141142fb33b4b327b82"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/data.sql": {
+    "mtime": 1793424996.5934544,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1d35ec407538f23573414af35c3127dc",
+    "semantic_hash": "1d35ec407538f23573414af35c3127dc"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/test_auth.py": {
+    "mtime": 1793424996.5944476,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f7b1fdd7e21d4e0d722d7aa9a85f7358",
+    "semantic_hash": "f7b1fdd7e21d4e0d722d7aa9a85f7358"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/test_blog.py": {
+    "mtime": 1793424996.5944476,
+    "seen": 1793425773.5757766,
+    "ast_hash": "80c622467a67f2568507ee867c76e94f",
+    "semantic_hash": "80c622467a67f2568507ee867c76e94f"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/test_db.py": {
+    "mtime": 1793424996.5944476,
+    "seen": 1793425773.5757766,
+    "ast_hash": "a4969dd9ca27d544894a1b1f012705ef",
+    "semantic_hash": "a4969dd9ca27d544894a1b1f012705ef"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/tests/test_factory.py": {
+    "mtime": 1793424996.595807,
+    "seen": 1793425773.5757766,
+    "ast_hash": "c18792cc257c84ea3511ff80f31e9711",
+    "semantic_hash": "c18792cc257c84ea3511ff80f31e9711"
+  },
+  "RepoLens/repositories/flask/pyproject.toml": {
+    "mtime": 1793424996.5968115,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1d921a0557acfe40f3b8a0c43e92f88c",
+    "semantic_hash": "1d921a0557acfe40f3b8a0c43e92f88c"
+  },
+  "RepoLens/repositories/flask/src/flask/__init__.py": {
+    "mtime": 1793424996.597812,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d0780bc7e4b09767b5a363f38f20e1e0",
+    "semantic_hash": "d0780bc7e4b09767b5a363f38f20e1e0"
+  },
+  "RepoLens/repositories/flask/src/flask/__main__.py": {
+    "mtime": 1793424996.597812,
+    "seen": 1793425773.5757766,
+    "ast_hash": "5bd0e02db4907bf4e435e5d770256fef",
+    "semantic_hash": "5bd0e02db4907bf4e435e5d770256fef"
+  },
+  "RepoLens/repositories/flask/src/flask/app.py": {
+    "mtime": 1793424996.5992165,
+    "seen": 1793425773.5757766,
+    "ast_hash": "727dbda310f6c0af68b6a480ce8823af",
+    "semantic_hash": "727dbda310f6c0af68b6a480ce8823af"
+  },
+  "RepoLens/repositories/flask/src/flask/blueprints.py": {
+    "mtime": 1793424996.5992165,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3a35657b308ba0cd7e2068589af2c43b",
+    "semantic_hash": "3a35657b308ba0cd7e2068589af2c43b"
+  },
+  "RepoLens/repositories/flask/src/flask/cli.py": {
+    "mtime": 1793424996.6002328,
+    "seen": 1793425773.5757766,
+    "ast_hash": "a9fcb4900f23d73f9c80dbb9cbe96d42",
+    "semantic_hash": "a9fcb4900f23d73f9c80dbb9cbe96d42"
+  },
+  "RepoLens/repositories/flask/src/flask/config.py": {
+    "mtime": 1793424996.6012325,
+    "seen": 1793425773.5757766,
+    "ast_hash": "6fa7cd7c83f251d3f52c55be155bcfed",
+    "semantic_hash": "6fa7cd7c83f251d3f52c55be155bcfed"
+  },
+  "RepoLens/repositories/flask/src/flask/ctx.py": {
+    "mtime": 1793424996.6012325,
+    "seen": 1793425773.5757766,
+    "ast_hash": "0e9d5bb64c90f8f8ae44a5253f8d6c58",
+    "semantic_hash": "0e9d5bb64c90f8f8ae44a5253f8d6c58"
+  },
+  "RepoLens/repositories/flask/src/flask/debughelpers.py": {
+    "mtime": 1793424996.602232,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b3cc08f747df47d8bc0de3c1ea35cb93",
+    "semantic_hash": "b3cc08f747df47d8bc0de3c1ea35cb93"
+  },
+  "RepoLens/repositories/flask/src/flask/globals.py": {
+    "mtime": 1793424996.603232,
+    "seen": 1793425773.5757766,
+    "ast_hash": "9f771533dfcdedf753817262969d8ffa",
+    "semantic_hash": "9f771533dfcdedf753817262969d8ffa"
+  },
+  "RepoLens/repositories/flask/src/flask/helpers.py": {
+    "mtime": 1793424996.603232,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b49c1d335babe2ca974fc53d35fd119e",
+    "semantic_hash": "b49c1d335babe2ca974fc53d35fd119e"
+  },
+  "RepoLens/repositories/flask/src/flask/json/__init__.py": {
+    "mtime": 1793424996.6042316,
+    "seen": 1793425773.5757766,
+    "ast_hash": "a96b871cf4de4dff09a79f0455cdd9a5",
+    "semantic_hash": "a96b871cf4de4dff09a79f0455cdd9a5"
+  },
+  "RepoLens/repositories/flask/src/flask/json/provider.py": {
+    "mtime": 1793424996.6052318,
+    "seen": 1793425773.5757766,
+    "ast_hash": "54a5fccebe305ce59a7e2b61ade957e0",
+    "semantic_hash": "54a5fccebe305ce59a7e2b61ade957e0"
+  },
+  "RepoLens/repositories/flask/src/flask/json/tag.py": {
+    "mtime": 1793424996.6052318,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1dabe7a8d12c04fc79345f1251632c26",
+    "semantic_hash": "1dabe7a8d12c04fc79345f1251632c26"
+  },
+  "RepoLens/repositories/flask/src/flask/logging.py": {
+    "mtime": 1793424996.6052318,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d1ef54dcecf05b2e53a6ec780f5a9363",
+    "semantic_hash": "d1ef54dcecf05b2e53a6ec780f5a9363"
+  },
+  "RepoLens/repositories/flask/src/flask/sansio/app.py": {
+    "mtime": 1793424996.6075785,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3126100a59567f8cd51b9c0fbe4c4a76",
+    "semantic_hash": "3126100a59567f8cd51b9c0fbe4c4a76"
+  },
+  "RepoLens/repositories/flask/src/flask/sansio/blueprints.py": {
+    "mtime": 1793424996.6085782,
+    "seen": 1793425773.5757766,
+    "ast_hash": "af50fcb74848f8115a966ca48f362990",
+    "semantic_hash": "af50fcb74848f8115a966ca48f362990"
+  },
+  "RepoLens/repositories/flask/src/flask/sansio/scaffold.py": {
+    "mtime": 1793424996.609578,
+    "seen": 1793425773.5757766,
+    "ast_hash": "926519a1fc10861f60b9df60aa12cde4",
+    "semantic_hash": "926519a1fc10861f60b9df60aa12cde4"
+  },
+  "RepoLens/repositories/flask/src/flask/sessions.py": {
+    "mtime": 1793424996.609578,
+    "seen": 1793425773.5757766,
+    "ast_hash": "067a8c47901469c76118345eb5695ab1",
+    "semantic_hash": "067a8c47901469c76118345eb5695ab1"
+  },
+  "RepoLens/repositories/flask/src/flask/signals.py": {
+    "mtime": 1793424996.6107733,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ded9cc7d5e3ea7afac36b6a849bf6b81",
+    "semantic_hash": "ded9cc7d5e3ea7afac36b6a849bf6b81"
+  },
+  "RepoLens/repositories/flask/src/flask/templating.py": {
+    "mtime": 1793424996.6107733,
+    "seen": 1793425773.5757766,
+    "ast_hash": "2128c124e4985bae14cc79a516b23345",
+    "semantic_hash": "2128c124e4985bae14cc79a516b23345"
+  },
+  "RepoLens/repositories/flask/src/flask/testing.py": {
+    "mtime": 1793424996.6117785,
+    "seen": 1793425773.5757766,
+    "ast_hash": "a56249f278209854e25bc268923d00f9",
+    "semantic_hash": "a56249f278209854e25bc268923d00f9"
+  },
+  "RepoLens/repositories/flask/src/flask/typing.py": {
+    "mtime": 1793424996.6124504,
+    "seen": 1793425773.5757766,
+    "ast_hash": "e09e0c8badab85af5f07001140d70257",
+    "semantic_hash": "e09e0c8badab85af5f07001140d70257"
+  },
+  "RepoLens/repositories/flask/src/flask/views.py": {
+    "mtime": 1793424996.6124504,
+    "seen": 1793425773.5757766,
+    "ast_hash": "6e1411287122b9caed91680cfce8be7c",
+    "semantic_hash": "6e1411287122b9caed91680cfce8be7c"
+  },
+  "RepoLens/repositories/flask/src/flask/wrappers.py": {
+    "mtime": 1793424996.6134546,
+    "seen": 1793425773.5757766,
+    "ast_hash": "00fbfb9acdc21fd0e4e918f9de774c30",
+    "semantic_hash": "00fbfb9acdc21fd0e4e918f9de774c30"
+  },
+  "RepoLens/repositories/flask/tests/conftest.py": {
+    "mtime": 1793424996.6144538,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b5daae07c5961ac6edee3fdb5c55b7b8",
+    "semantic_hash": "b5daae07c5961ac6edee3fdb5c55b7b8"
+  },
+  "RepoLens/repositories/flask/tests/static/config.json": {
+    "mtime": 1793424996.6154542,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1513940be9e419b53d79a3b3799d02ec",
+    "semantic_hash": "1513940be9e419b53d79a3b3799d02ec"
+  },
+  "RepoLens/repositories/flask/tests/test_appctx.py": {
+    "mtime": 1793424996.6223092,
+    "seen": 1793425773.5757766,
+    "ast_hash": "5cabe96f11074d0642df467293431184",
+    "semantic_hash": "5cabe96f11074d0642df467293431184"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/__init__.py": {
+    "mtime": 1793424996.6253092,
+    "seen": 1793425773.5757766,
+    "ast_hash": "8a7a2b669d31999e5e00ae024e0198e3",
+    "semantic_hash": "8a7a2b669d31999e5e00ae024e0198e3"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/__init__.py": {
+    "mtime": 1793424996.6253092,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/admin/__init__.py": {
+    "mtime": 1793424996.6263084,
+    "seen": 1793425773.5757766,
+    "ast_hash": "5af1824905fdaa08d249b2afdc1c6754",
+    "semantic_hash": "5af1824905fdaa08d249b2afdc1c6754"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/frontend/__init__.py": {
+    "mtime": 1793424996.6303556,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f5fdc48c8b929601336ce551aa388689",
+    "semantic_hash": "f5fdc48c8b929601336ce551aa388689"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/__init__.py": {
+    "mtime": 1793424996.6323555,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/app.py": {
+    "mtime": 1793424996.6323555,
+    "seen": 1793425773.5757766,
+    "ast_hash": "09349b248ae13e050322b1b3ce2a69a6",
+    "semantic_hash": "09349b248ae13e050322b1b3ce2a69a6"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/factory.py": {
+    "mtime": 1793424996.6333554,
+    "seen": 1793425773.5757766,
+    "ast_hash": "5ee4c2635d4819556a5b392dd6b8a75e",
+    "semantic_hash": "5ee4c2635d4819556a5b392dd6b8a75e"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/importerrorapp.py": {
+    "mtime": 1793424996.6333554,
+    "seen": 1793425773.5757766,
+    "ast_hash": "812f4d161a95ab5c45a2f6f2b21b6128",
+    "semantic_hash": "812f4d161a95ab5c45a2f6f2b21b6128"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/inner1/__init__.py": {
+    "mtime": 1793424996.6344428,
+    "seen": 1793425773.5757766,
+    "ast_hash": "0f1a80d6ada09a5c2c6d5746b6bd4f35",
+    "semantic_hash": "0f1a80d6ada09a5c2c6d5746b6bd4f35"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/inner1/inner2/__init__.py": {
+    "mtime": 1793424996.6344428,
+    "seen": 1793425773.5757766,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/inner1/inner2/flask.py": {
+    "mtime": 1793424996.6357918,
+    "seen": 1793425773.5757766,
+    "ast_hash": "718aebbeaac9d2a0c60704a9ee0504ce",
+    "semantic_hash": "718aebbeaac9d2a0c60704a9ee0504ce"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/multiapp.py": {
+    "mtime": 1793424996.6363945,
+    "seen": 1793425773.5757766,
+    "ast_hash": "1824399cbb4cf43316a0ca1a2ef74045",
+    "semantic_hash": "1824399cbb4cf43316a0ca1a2ef74045"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/helloworld/hello.py": {
+    "mtime": 1793424996.6377947,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3a53a30ddaae88222cb3eb683f63254b",
+    "semantic_hash": "3a53a30ddaae88222cb3eb683f63254b"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/helloworld/wsgi.py": {
+    "mtime": 1793424996.6377947,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f4b6e28d2bd73ae92a24a313cfdbf3b7",
+    "semantic_hash": "f4b6e28d2bd73ae92a24a313cfdbf3b7"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/subdomaintestmodule/__init__.py": {
+    "mtime": 1793424996.638811,
+    "seen": 1793425773.5757766,
+    "ast_hash": "02781037e5d91646cacde3cd32cd4b16",
+    "semantic_hash": "02781037e5d91646cacde3cd32cd4b16"
+  },
+  "RepoLens/repositories/flask/tests/test_async.py": {
+    "mtime": 1793424996.6398096,
+    "seen": 1793425773.5757766,
+    "ast_hash": "57f91d81f77bc24f55c68d0a20e31c3f",
+    "semantic_hash": "57f91d81f77bc24f55c68d0a20e31c3f"
+  },
+  "RepoLens/repositories/flask/tests/test_basic.py": {
+    "mtime": 1793424996.6409457,
+    "seen": 1793425773.5757766,
+    "ast_hash": "03685f8309fd250d49a258cd487f5c9b",
+    "semantic_hash": "03685f8309fd250d49a258cd487f5c9b"
+  },
+  "RepoLens/repositories/flask/tests/test_blueprints.py": {
+    "mtime": 1793424996.6409457,
+    "seen": 1793425773.5757766,
+    "ast_hash": "437a04e74ac78cd4dae7d603b46a5c61",
+    "semantic_hash": "437a04e74ac78cd4dae7d603b46a5c61"
+  },
+  "RepoLens/repositories/flask/tests/test_cli.py": {
+    "mtime": 1793424996.6419506,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f92ac5d25d29fcaa1d9fa59715e175a0",
+    "semantic_hash": "f92ac5d25d29fcaa1d9fa59715e175a0"
+  },
+  "RepoLens/repositories/flask/tests/test_config.py": {
+    "mtime": 1793424996.6429503,
+    "seen": 1793425773.5757766,
+    "ast_hash": "be7d978b26e21bf7b3a2a684f510d91d",
+    "semantic_hash": "be7d978b26e21bf7b3a2a684f510d91d"
+  },
+  "RepoLens/repositories/flask/tests/test_converters.py": {
+    "mtime": 1793424996.6429503,
+    "seen": 1793425773.5757766,
+    "ast_hash": "e76bda8f61b4ab7ab9846bbf938a2426",
+    "semantic_hash": "e76bda8f61b4ab7ab9846bbf938a2426"
+  },
+  "RepoLens/repositories/flask/tests/test_helpers.py": {
+    "mtime": 1793424996.6439502,
+    "seen": 1793425773.5757766,
+    "ast_hash": "5d097c75e340f3465f074de21224b446",
+    "semantic_hash": "5d097c75e340f3465f074de21224b446"
+  },
+  "RepoLens/repositories/flask/tests/test_instance_config.py": {
+    "mtime": 1793424996.6439502,
+    "seen": 1793425773.5757766,
+    "ast_hash": "bc9a1315c8e089f9cd6342af8bfcce96",
+    "semantic_hash": "bc9a1315c8e089f9cd6342af8bfcce96"
+  },
+  "RepoLens/repositories/flask/tests/test_json.py": {
+    "mtime": 1793424996.6439502,
+    "seen": 1793425773.5757766,
+    "ast_hash": "9ec1fb6546eb33f66e75f025e05bdd46",
+    "semantic_hash": "9ec1fb6546eb33f66e75f025e05bdd46"
+  },
+  "RepoLens/repositories/flask/tests/test_json_tag.py": {
+    "mtime": 1793424996.645161,
+    "seen": 1793425773.5757766,
+    "ast_hash": "6349244c14f20b5917f24bb28a9a6098",
+    "semantic_hash": "6349244c14f20b5917f24bb28a9a6098"
+  },
+  "RepoLens/repositories/flask/tests/test_logging.py": {
+    "mtime": 1793424996.6461658,
+    "seen": 1793425773.5757766,
+    "ast_hash": "b65178e11e6bec48d12eca40a35bcf54",
+    "semantic_hash": "b65178e11e6bec48d12eca40a35bcf54"
+  },
+  "RepoLens/repositories/flask/tests/test_regression.py": {
+    "mtime": 1793424996.6471663,
+    "seen": 1793425773.5757766,
+    "ast_hash": "8b07a85b6d345829727d32f813b2a34b",
+    "semantic_hash": "8b07a85b6d345829727d32f813b2a34b"
+  },
+  "RepoLens/repositories/flask/tests/test_reqctx.py": {
+    "mtime": 1793424996.6471663,
+    "seen": 1793425773.5757766,
+    "ast_hash": "01e5301cf532bed9ccbac9b23da5612c",
+    "semantic_hash": "01e5301cf532bed9ccbac9b23da5612c"
+  },
+  "RepoLens/repositories/flask/tests/test_request.py": {
+    "mtime": 1793424996.6481762,
+    "seen": 1793425773.5757766,
+    "ast_hash": "f191ab082569d5f3da52ea79b4314d59",
+    "semantic_hash": "f191ab082569d5f3da52ea79b4314d59"
+  },
+  "RepoLens/repositories/flask/tests/test_session_interface.py": {
+    "mtime": 1793424996.6481762,
+    "seen": 1793425773.5757766,
+    "ast_hash": "35a406faa3cf9d988c3d2a960ccb39f4",
+    "semantic_hash": "35a406faa3cf9d988c3d2a960ccb39f4"
+  },
+  "RepoLens/repositories/flask/tests/test_signals.py": {
+    "mtime": 1793424996.6491652,
+    "seen": 1793425773.5757766,
+    "ast_hash": "8fd692e4fffd82cd43aa650da7ad4859",
+    "semantic_hash": "8fd692e4fffd82cd43aa650da7ad4859"
+  },
+  "RepoLens/repositories/flask/tests/test_subclassing.py": {
+    "mtime": 1793424996.6491652,
+    "seen": 1793425773.5757766,
+    "ast_hash": "2e80e735668933d621312b3b49ed6ca5",
+    "semantic_hash": "2e80e735668933d621312b3b49ed6ca5"
+  },
+  "RepoLens/repositories/flask/tests/test_templating.py": {
+    "mtime": 1793424996.650657,
+    "seen": 1793425773.5757766,
+    "ast_hash": "e838d3caadfedbd19e81528c5706f367",
+    "semantic_hash": "e838d3caadfedbd19e81528c5706f367"
+  },
+  "RepoLens/repositories/flask/tests/test_testing.py": {
+    "mtime": 1793424996.6516614,
+    "seen": 1793425773.5757766,
+    "ast_hash": "2933cd0d9e64c24d635794f71fcf55a1",
+    "semantic_hash": "2933cd0d9e64c24d635794f71fcf55a1"
+  },
+  "RepoLens/repositories/flask/tests/test_user_error_handler.py": {
+    "mtime": 1793424996.6516614,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3cd153fe3e0f33f3e5cc7d47724a45a7",
+    "semantic_hash": "3cd153fe3e0f33f3e5cc7d47724a45a7"
+  },
+  "RepoLens/repositories/flask/tests/test_views.py": {
+    "mtime": 1793424996.6516614,
+    "seen": 1793425773.5757766,
+    "ast_hash": "fefde8aab402195061f97c666d2a22b9",
+    "semantic_hash": "fefde8aab402195061f97c666d2a22b9"
+  },
+  "RepoLens/repositories/flask/tests/type_check/typing_app_decorators.py": {
+    "mtime": 1793424996.6540978,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3bb8332119f435a609f4ab14579cbab6",
+    "semantic_hash": "3bb8332119f435a609f4ab14579cbab6"
+  },
+  "RepoLens/repositories/flask/tests/type_check/typing_error_handler.py": {
+    "mtime": 1793424996.6540978,
+    "seen": 1793425773.5757766,
+    "ast_hash": "3fbc55509619b75cf0cc1f60459c8178",
+    "semantic_hash": "3fbc55509619b75cf0cc1f60459c8178"
+  },
+  "RepoLens/repositories/flask/tests/type_check/typing_route.py": {
+    "mtime": 1793424996.655256,
+    "seen": 1793425773.5757766,
+    "ast_hash": "764d5a784a5a0fdaa021ea2beea01748",
+    "semantic_hash": "764d5a784a5a0fdaa021ea2beea01748"
+  },
+  "RepoLens/services/github_service.py": {
+    "mtime": 1793424944.4270926,
+    "seen": 1793425773.5757766,
+    "ast_hash": "14f1a87552732c9354a290d5fa6a35e3",
+    "semantic_hash": "14f1a87552732c9354a290d5fa6a35e3"
+  },
+  "RepoLens/services/graph_service.py": {
+    "mtime": 1793425047.81229,
+    "seen": 1793425773.5757766,
+    "ast_hash": "ebd3a93e2cf586c41c1a5ab4f5341ece",
+    "semantic_hash": "ebd3a93e2cf586c41c1a5ab4f5341ece"
+  },
+  "RepoLens/test_github.py": {
+    "mtime": 1793424981.9067628,
+    "seen": 1793425773.576778,
+    "ast_hash": "450669223fa14ed396d1e2ea50d9c1d1",
+    "semantic_hash": "450669223fa14ed396d1e2ea50d9c1d1"
+  },
+  "RepoLens/repositories/flask/.github/ISSUE_TEMPLATE/bug-report.md": {
+    "mtime": 1793424996.4875438,
+    "seen": 1793425773.577897,
+    "ast_hash": "e42b501f85240d1ad0902660afa8594e",
+    "semantic_hash": "e42b501f85240d1ad0902660afa8594e"
+  },
+  "RepoLens/repositories/flask/.github/ISSUE_TEMPLATE/feature-request.md": {
+    "mtime": 1793424996.4905448,
+    "seen": 1793425773.577897,
+    "ast_hash": "23a85cc6b899a23e19b3be6f17bceaef",
+    "semantic_hash": "23a85cc6b899a23e19b3be6f17bceaef"
+  },
+  "RepoLens/repositories/flask/.github/pull_request_template.md": {
+    "mtime": 1793424996.4915452,
+    "seen": 1793425773.577897,
+    "ast_hash": "9171a79bb73a925a9eeb7d22bc0644b0",
+    "semantic_hash": "9171a79bb73a925a9eeb7d22bc0644b0"
+  },
+  "RepoLens/repositories/flask/CHANGES.rst": {
+    "mtime": 1793424996.501042,
+    "seen": 1793425773.577897,
+    "ast_hash": "f51d67eaae1f261bbaccd3d5b6a5170f",
+    "semantic_hash": "f51d67eaae1f261bbaccd3d5b6a5170f"
+  },
+  "RepoLens/repositories/flask/LICENSE.txt": {
+    "mtime": 1793424996.5023925,
+    "seen": 1793425773.577897,
+    "ast_hash": "779964cd6648aa66466fb0d1a9629339",
+    "semantic_hash": "779964cd6648aa66466fb0d1a9629339"
+  },
+  "RepoLens/repositories/flask/README.md": {
+    "mtime": 1793424996.5023925,
+    "seen": 1793425773.577897,
+    "ast_hash": "93d699276e9a3e4a5630b3a703d355a7",
+    "semantic_hash": "93d699276e9a3e4a5630b3a703d355a7"
+  },
+  "RepoLens/repositories/flask/docs/api.rst": {
+    "mtime": 1793424996.5098712,
+    "seen": 1793425773.577897,
+    "ast_hash": "99e1f99c44b805b388c72fafe9ac443a",
+    "semantic_hash": "99e1f99c44b805b388c72fafe9ac443a"
+  },
+  "RepoLens/repositories/flask/docs/appcontext.rst": {
+    "mtime": 1793424996.5108323,
+    "seen": 1793425773.577897,
+    "ast_hash": "4360b473ee950fe375668abf6ff5f238",
+    "semantic_hash": "4360b473ee950fe375668abf6ff5f238"
+  },
+  "RepoLens/repositories/flask/docs/async-await.rst": {
+    "mtime": 1793424996.5108323,
+    "seen": 1793425773.577897,
+    "ast_hash": "7d9c3e05bdbb11d40b544039259f66c5",
+    "semantic_hash": "7d9c3e05bdbb11d40b544039259f66c5"
+  },
+  "RepoLens/repositories/flask/docs/blueprints.rst": {
+    "mtime": 1793424996.5118392,
+    "seen": 1793425773.577897,
+    "ast_hash": "934bd50c8ac449974178f773be751697",
+    "semantic_hash": "934bd50c8ac449974178f773be751697"
+  },
+  "RepoLens/repositories/flask/docs/changes.rst": {
+    "mtime": 1793424996.512851,
+    "seen": 1793425773.577897,
+    "ast_hash": "ba201067d97cf62e26fb8b508d5baaae",
+    "semantic_hash": "ba201067d97cf62e26fb8b508d5baaae"
+  },
+  "RepoLens/repositories/flask/docs/cli.rst": {
+    "mtime": 1793424996.5138366,
+    "seen": 1793425773.577897,
+    "ast_hash": "238b6d34f5c1a2fa75a5fc0f8a942750",
+    "semantic_hash": "238b6d34f5c1a2fa75a5fc0f8a942750"
+  },
+  "RepoLens/repositories/flask/docs/config.rst": {
+    "mtime": 1793424996.5138366,
+    "seen": 1793425773.577897,
+    "ast_hash": "564fc8560929925beabc665551b98677",
+    "semantic_hash": "564fc8560929925beabc665551b98677"
+  },
+  "RepoLens/repositories/flask/docs/contributing.rst": {
+    "mtime": 1793424996.515058,
+    "seen": 1793425773.577897,
+    "ast_hash": "0906c43fccdc6fc40d140e72b11a6081",
+    "semantic_hash": "0906c43fccdc6fc40d140e72b11a6081"
+  },
+  "RepoLens/repositories/flask/docs/debugging.rst": {
+    "mtime": 1793424996.5160975,
+    "seen": 1793425773.577897,
+    "ast_hash": "d7106741f5d047cbe33cd17d5fb71e7b",
+    "semantic_hash": "d7106741f5d047cbe33cd17d5fb71e7b"
+  },
+  "RepoLens/repositories/flask/docs/design.rst": {
+    "mtime": 1793424996.5283246,
+    "seen": 1793425773.577897,
+    "ast_hash": "431f20dec2ef2450044bf43ce7430e77",
+    "semantic_hash": "431f20dec2ef2450044bf43ce7430e77"
+  },
+  "RepoLens/repositories/flask/docs/errorhandling.rst": {
+    "mtime": 1793424996.5298254,
+    "seen": 1793425773.577897,
+    "ast_hash": "ed2abdd5b445afa7b7b5089b4353fb0e",
+    "semantic_hash": "ed2abdd5b445afa7b7b5089b4353fb0e"
+  },
+  "RepoLens/repositories/flask/docs/extensiondev.rst": {
+    "mtime": 1793424996.5298254,
+    "seen": 1793425773.577897,
+    "ast_hash": "6e0f07286c9b32e6e85d931eb8817f3e",
+    "semantic_hash": "6e0f07286c9b32e6e85d931eb8817f3e"
+  },
+  "RepoLens/repositories/flask/docs/extensions.rst": {
+    "mtime": 1793424996.5308316,
+    "seen": 1793425773.577897,
+    "ast_hash": "302bb99777a11bae34e97d28164be64a",
+    "semantic_hash": "302bb99777a11bae34e97d28164be64a"
+  },
+  "RepoLens/repositories/flask/docs/gevent.rst": {
+    "mtime": 1793424996.5318758,
+    "seen": 1793425773.577897,
+    "ast_hash": "1fe282ab33e5ddb641cf23acf5754f7a",
+    "semantic_hash": "1fe282ab33e5ddb641cf23acf5754f7a"
+  },
+  "RepoLens/repositories/flask/docs/index.rst": {
+    "mtime": 1793424996.5318758,
+    "seen": 1793425773.577897,
+    "ast_hash": "724021536d0ecd3893cda1b0c96bd4c7",
+    "semantic_hash": "724021536d0ecd3893cda1b0c96bd4c7"
+  },
+  "RepoLens/repositories/flask/docs/installation.rst": {
+    "mtime": 1793424996.5328834,
+    "seen": 1793425773.577897,
+    "ast_hash": "14411278023f526251b643709445252f",
+    "semantic_hash": "14411278023f526251b643709445252f"
+  },
+  "RepoLens/repositories/flask/docs/license.rst": {
+    "mtime": 1793424996.5338838,
+    "seen": 1793425773.577897,
+    "ast_hash": "2881e378b16d58f145feec7fb2d9f647",
+    "semantic_hash": "2881e378b16d58f145feec7fb2d9f647"
+  },
+  "RepoLens/repositories/flask/docs/lifecycle.rst": {
+    "mtime": 1793424996.5338838,
+    "seen": 1793425773.577897,
+    "ast_hash": "7bc56371e8d722e121c2a6949009ba58",
+    "semantic_hash": "7bc56371e8d722e121c2a6949009ba58"
+  },
+  "RepoLens/repositories/flask/docs/logging.rst": {
+    "mtime": 1793424996.534881,
+    "seen": 1793425773.577897,
+    "ast_hash": "92444b41d400ee540d47bc70f21c93f1",
+    "semantic_hash": "92444b41d400ee540d47bc70f21c93f1"
+  },
+  "RepoLens/repositories/flask/docs/patterns/appdispatch.rst": {
+    "mtime": 1793424996.5358822,
+    "seen": 1793425773.577897,
+    "ast_hash": "e416fc7663401e80ed8b28b6c5784021",
+    "semantic_hash": "e416fc7663401e80ed8b28b6c5784021"
+  },
+  "RepoLens/repositories/flask/docs/patterns/appfactories.rst": {
+    "mtime": 1793424996.536881,
+    "seen": 1793425773.577897,
+    "ast_hash": "50ecd3d27b196ae8fe73653fa077391f",
+    "semantic_hash": "50ecd3d27b196ae8fe73653fa077391f"
+  },
+  "RepoLens/repositories/flask/docs/patterns/caching.rst": {
+    "mtime": 1793424996.536881,
+    "seen": 1793425773.577897,
+    "ast_hash": "4a4d0fdb8d36b5c56398c5c51124af91",
+    "semantic_hash": "4a4d0fdb8d36b5c56398c5c51124af91"
+  },
+  "RepoLens/repositories/flask/docs/patterns/celery.rst": {
+    "mtime": 1793424996.5378807,
+    "seen": 1793425773.577897,
+    "ast_hash": "084c06058d5b3d3692332da84b19488a",
+    "semantic_hash": "084c06058d5b3d3692332da84b19488a"
+  },
+  "RepoLens/repositories/flask/docs/patterns/deferredcallbacks.rst": {
+    "mtime": 1793424996.5388813,
+    "seen": 1793425773.577897,
+    "ast_hash": "b7944c06e19c35895a194513e3791e42",
+    "semantic_hash": "b7944c06e19c35895a194513e3791e42"
+  },
+  "RepoLens/repositories/flask/docs/patterns/favicon.rst": {
+    "mtime": 1793424996.5388813,
+    "seen": 1793425773.577897,
+    "ast_hash": "ce371942eb044e12882edfde17b88006",
+    "semantic_hash": "ce371942eb044e12882edfde17b88006"
+  },
+  "RepoLens/repositories/flask/docs/patterns/fileuploads.rst": {
+    "mtime": 1793424996.5398808,
+    "seen": 1793425773.577897,
+    "ast_hash": "89dc2c4b89bb17434fadec474bdd32e6",
+    "semantic_hash": "89dc2c4b89bb17434fadec474bdd32e6"
+  },
+  "RepoLens/repositories/flask/docs/patterns/flashing.rst": {
+    "mtime": 1793424996.5408823,
+    "seen": 1793425773.577897,
+    "ast_hash": "13662ab5466ec2ce114025e0fabf651a",
+    "semantic_hash": "13662ab5466ec2ce114025e0fabf651a"
+  },
+  "RepoLens/repositories/flask/docs/patterns/index.rst": {
+    "mtime": 1793424996.5418828,
+    "seen": 1793425773.577897,
+    "ast_hash": "5a38709ba8cd7bd7a759652d3341d35d",
+    "semantic_hash": "5a38709ba8cd7bd7a759652d3341d35d"
+  },
+  "RepoLens/repositories/flask/docs/patterns/javascript.rst": {
+    "mtime": 1793424996.5418828,
+    "seen": 1793425773.577897,
+    "ast_hash": "32c12fdac91866be4705ef292ab97b06",
+    "semantic_hash": "32c12fdac91866be4705ef292ab97b06"
+  },
+  "RepoLens/repositories/flask/docs/patterns/jquery.rst": {
+    "mtime": 1793424996.5428813,
+    "seen": 1793425773.577897,
+    "ast_hash": "0324b134e725bc4628717399d70fd602",
+    "semantic_hash": "0324b134e725bc4628717399d70fd602"
+  },
+  "RepoLens/repositories/flask/docs/patterns/lazyloading.rst": {
+    "mtime": 1793424996.5428813,
+    "seen": 1793425773.5784082,
+    "ast_hash": "88f2386a3d30661c2b9be9dc5626cf81",
+    "semantic_hash": "88f2386a3d30661c2b9be9dc5626cf81"
+  },
+  "RepoLens/repositories/flask/docs/patterns/methodoverrides.rst": {
+    "mtime": 1793424996.5438814,
+    "seen": 1793425773.5784082,
+    "ast_hash": "c568e553b80f09178b8c541f0cfd809a",
+    "semantic_hash": "c568e553b80f09178b8c541f0cfd809a"
+  },
+  "RepoLens/repositories/flask/docs/patterns/mongoengine.rst": {
+    "mtime": 1793424996.5438814,
+    "seen": 1793425773.5784082,
+    "ast_hash": "bf2ef1fe96d3b7359eddfd0eb3abefb4",
+    "semantic_hash": "bf2ef1fe96d3b7359eddfd0eb3abefb4"
+  },
+  "RepoLens/repositories/flask/docs/patterns/packages.rst": {
+    "mtime": 1793424996.5448813,
+    "seen": 1793425773.5784082,
+    "ast_hash": "fd21ad5c34b5127a2c7950343ad15a71",
+    "semantic_hash": "fd21ad5c34b5127a2c7950343ad15a71"
+  },
+  "RepoLens/repositories/flask/docs/patterns/requestchecksum.rst": {
+    "mtime": 1793424996.5458877,
+    "seen": 1793425773.5784082,
+    "ast_hash": "5eee68b46046fdc5280215dbabde7386",
+    "semantic_hash": "5eee68b46046fdc5280215dbabde7386"
+  },
+  "RepoLens/repositories/flask/docs/patterns/singlepageapplications.rst": {
+    "mtime": 1793424996.5458877,
+    "seen": 1793425773.5784082,
+    "ast_hash": "d261dec83b151b9f5dab1a76eac861f2",
+    "semantic_hash": "d261dec83b151b9f5dab1a76eac861f2"
+  },
+  "RepoLens/repositories/flask/docs/patterns/sqlalchemy.rst": {
+    "mtime": 1793424996.5468822,
+    "seen": 1793425773.5784082,
+    "ast_hash": "76d3684f0179c1b913795f81daf2b20e",
+    "semantic_hash": "76d3684f0179c1b913795f81daf2b20e"
+  },
+  "RepoLens/repositories/flask/docs/patterns/sqlite3.rst": {
+    "mtime": 1793424996.5468822,
+    "seen": 1793425773.5784082,
+    "ast_hash": "0792734544785cdd2d3fc8a7dcb0d1fa",
+    "semantic_hash": "0792734544785cdd2d3fc8a7dcb0d1fa"
+  },
+  "RepoLens/repositories/flask/docs/patterns/streaming.rst": {
+    "mtime": 1793424996.5480413,
+    "seen": 1793425773.5784082,
+    "ast_hash": "34d4376f2e70a8b2e998d9794eed495c",
+    "semantic_hash": "34d4376f2e70a8b2e998d9794eed495c"
+  },
+  "RepoLens/repositories/flask/docs/patterns/subclassing.rst": {
+    "mtime": 1793424996.5480413,
+    "seen": 1793425773.5784082,
+    "ast_hash": "7311e2cde164a5c5b0bd2d27ece06056",
+    "semantic_hash": "7311e2cde164a5c5b0bd2d27ece06056"
+  },
+  "RepoLens/repositories/flask/docs/patterns/templateinheritance.rst": {
+    "mtime": 1793424996.5490656,
+    "seen": 1793425773.5784082,
+    "ast_hash": "26c9325c5e042688ade28ef201372775",
+    "semantic_hash": "26c9325c5e042688ade28ef201372775"
+  },
+  "RepoLens/repositories/flask/docs/patterns/urlprocessors.rst": {
+    "mtime": 1793424996.5498366,
+    "seen": 1793425773.5784082,
+    "ast_hash": "02c03abbed947658322c314e5d7b940a",
+    "semantic_hash": "02c03abbed947658322c314e5d7b940a"
+  },
+  "RepoLens/repositories/flask/docs/patterns/viewdecorators.rst": {
+    "mtime": 1793424996.5498366,
+    "seen": 1793425773.5784082,
+    "ast_hash": "58a788e854b05170f5b0f254c33adc5e",
+    "semantic_hash": "58a788e854b05170f5b0f254c33adc5e"
+  },
+  "RepoLens/repositories/flask/docs/patterns/wtforms.rst": {
+    "mtime": 1793424996.550841,
+    "seen": 1793425773.5784082,
+    "ast_hash": "28b4293cafdd6d3a42d998252a9e9faf",
+    "semantic_hash": "28b4293cafdd6d3a42d998252a9e9faf"
+  },
+  "RepoLens/repositories/flask/docs/quickstart.rst": {
+    "mtime": 1793424996.5518403,
+    "seen": 1793425773.5784082,
+    "ast_hash": "6d28da0ebd83b7553bd11389d4c8b51a",
+    "semantic_hash": "6d28da0ebd83b7553bd11389d4c8b51a"
+  },
+  "RepoLens/repositories/flask/docs/reqcontext.rst": {
+    "mtime": 1793424996.5518403,
+    "seen": 1793425773.5784082,
+    "ast_hash": "376f6c2035203f8bd944c0f25f38b84e",
+    "semantic_hash": "376f6c2035203f8bd944c0f25f38b84e"
+  },
+  "RepoLens/repositories/flask/docs/server.rst": {
+    "mtime": 1793424996.5518403,
+    "seen": 1793425773.5784082,
+    "ast_hash": "2199dc379acc83bbbef9c0aed1fbac18",
+    "semantic_hash": "2199dc379acc83bbbef9c0aed1fbac18"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/blog.rst": {
+    "mtime": 1793424996.556067,
+    "seen": 1793425773.5784082,
+    "ast_hash": "408e59ea80e3856b8715e59ea7b7fb89",
+    "semantic_hash": "408e59ea80e3856b8715e59ea7b7fb89"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/database.rst": {
+    "mtime": 1793424996.556067,
+    "seen": 1793425773.5784082,
+    "ast_hash": "0b78f12aa1bae4324740f18082133d16",
+    "semantic_hash": "0b78f12aa1bae4324740f18082133d16"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/deploy.rst": {
+    "mtime": 1793424996.556067,
+    "seen": 1793425773.5784082,
+    "ast_hash": "b8982453fc07ec68d0c58c3c3d241636",
+    "semantic_hash": "b8982453fc07ec68d0c58c3c3d241636"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/factory.rst": {
+    "mtime": 1793424996.557559,
+    "seen": 1793425773.5784082,
+    "ast_hash": "75ecea12086dc4d3c04420b872b0fd43",
+    "semantic_hash": "75ecea12086dc4d3c04420b872b0fd43"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/index.rst": {
+    "mtime": 1793424996.5605848,
+    "seen": 1793425773.5784082,
+    "ast_hash": "1838da21a017262082b5400e2581e670",
+    "semantic_hash": "1838da21a017262082b5400e2581e670"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/install.rst": {
+    "mtime": 1793424996.5605848,
+    "seen": 1793425773.5784082,
+    "ast_hash": "e7b1dff106b97322c687863194d2e8ce",
+    "semantic_hash": "e7b1dff106b97322c687863194d2e8ce"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/layout.rst": {
+    "mtime": 1793424996.5615857,
+    "seen": 1793425773.5784082,
+    "ast_hash": "108e7f1e986034b20e9b25f574746cf9",
+    "semantic_hash": "108e7f1e986034b20e9b25f574746cf9"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/next.rst": {
+    "mtime": 1793424996.5625832,
+    "seen": 1793425773.5784082,
+    "ast_hash": "b69946c592ab56c2824cd8d8d1ab1a2f",
+    "semantic_hash": "b69946c592ab56c2824cd8d8d1ab1a2f"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/static.rst": {
+    "mtime": 1793424996.5625832,
+    "seen": 1793425773.5784082,
+    "ast_hash": "27b7ff32aea903e0aeb741ec9e17b31b",
+    "semantic_hash": "27b7ff32aea903e0aeb741ec9e17b31b"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/templates.rst": {
+    "mtime": 1793424996.5635848,
+    "seen": 1793425773.5784082,
+    "ast_hash": "5159d09e0924e70b2ce66bd6fd5a2c7d",
+    "semantic_hash": "5159d09e0924e70b2ce66bd6fd5a2c7d"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/tests.rst": {
+    "mtime": 1793424996.5645854,
+    "seen": 1793425773.5784082,
+    "ast_hash": "b6bf44dd702d2989125ef654fa01989f",
+    "semantic_hash": "b6bf44dd702d2989125ef654fa01989f"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/views.rst": {
+    "mtime": 1793424996.5645854,
+    "seen": 1793425773.5784082,
+    "ast_hash": "3a997cf044ec86f85bba5d4fd3a979cc",
+    "semantic_hash": "3a997cf044ec86f85bba5d4fd3a979cc"
+  },
+  "RepoLens/repositories/flask/examples/celery/README.md": {
+    "mtime": 1793424996.567344,
+    "seen": 1793425773.5784082,
+    "ast_hash": "ec6b122b3e020754f375a99aded18728",
+    "semantic_hash": "ec6b122b3e020754f375a99aded18728"
+  },
+  "RepoLens/repositories/flask/examples/celery/requirements.txt": {
+    "mtime": 1793424996.5693712,
+    "seen": 1793425773.5784082,
+    "ast_hash": "32baac2b6224452fc92d040440bc6c44",
+    "semantic_hash": "32baac2b6224452fc92d040440bc6c44"
+  },
+  "RepoLens/repositories/flask/examples/celery/src/task_app/templates/index.html": {
+    "mtime": 1793424996.572719,
+    "seen": 1793425773.5784082,
+    "ast_hash": "7c8bf465ee2806be6bcd38d424b66665",
+    "semantic_hash": "7c8bf465ee2806be6bcd38d424b66665"
+  },
+  "RepoLens/repositories/flask/examples/javascript/LICENSE.txt": {
+    "mtime": 1793424996.5737236,
+    "seen": 1793425773.5784082,
+    "ast_hash": "779964cd6648aa66466fb0d1a9629339",
+    "semantic_hash": "779964cd6648aa66466fb0d1a9629339"
+  },
+  "RepoLens/repositories/flask/examples/javascript/README.rst": {
+    "mtime": 1793424996.5737236,
+    "seen": 1793425773.5784082,
+    "ast_hash": "5379bc70a9c20b3457f6b0c07a8e1b3a",
+    "semantic_hash": "5379bc70a9c20b3457f6b0c07a8e1b3a"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/templates/base.html": {
+    "mtime": 1793424996.576167,
+    "seen": 1793425773.5784082,
+    "ast_hash": "8b7e6d42b566dd749bc72c11c2898dc8",
+    "semantic_hash": "8b7e6d42b566dd749bc72c11c2898dc8"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/templates/fetch.html": {
+    "mtime": 1793424996.5771685,
+    "seen": 1793425773.5784082,
+    "ast_hash": "28ab854d2e8642d7219f88f355401d67",
+    "semantic_hash": "28ab854d2e8642d7219f88f355401d67"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/templates/jquery.html": {
+    "mtime": 1793424996.5771685,
+    "seen": 1793425773.5784082,
+    "ast_hash": "09fcf4858bfc96b08c8300be7c124a72",
+    "semantic_hash": "09fcf4858bfc96b08c8300be7c124a72"
+  },
+  "RepoLens/repositories/flask/examples/javascript/js_example/templates/xhr.html": {
+    "mtime": 1793424996.5781708,
+    "seen": 1793425773.5784082,
+    "ast_hash": "ca074e1181aa251a49052d0d8ba3cad4",
+    "semantic_hash": "ca074e1181aa251a49052d0d8ba3cad4"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/LICENSE.txt": {
+    "mtime": 1793424996.5821667,
+    "seen": 1793425773.5784082,
+    "ast_hash": "779964cd6648aa66466fb0d1a9629339",
+    "semantic_hash": "779964cd6648aa66466fb0d1a9629339"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/README.rst": {
+    "mtime": 1793424996.5821667,
+    "seen": 1793425773.5784082,
+    "ast_hash": "2194e709a2427e2ff6723599e610a082",
+    "semantic_hash": "2194e709a2427e2ff6723599e610a082"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/auth/login.html": {
+    "mtime": 1793424996.588904,
+    "seen": 1793425773.5784082,
+    "ast_hash": "798cee9758efcf5adf79be36b248709c",
+    "semantic_hash": "798cee9758efcf5adf79be36b248709c"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/auth/register.html": {
+    "mtime": 1793424996.588904,
+    "seen": 1793425773.5784082,
+    "ast_hash": "236abbff967853ffb21d637c3454ec19",
+    "semantic_hash": "236abbff967853ffb21d637c3454ec19"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/base.html": {
+    "mtime": 1793424996.5900166,
+    "seen": 1793425773.5784082,
+    "ast_hash": "95e34ad376ef7103cb7a2ca290e3ac58",
+    "semantic_hash": "95e34ad376ef7103cb7a2ca290e3ac58"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/blog/create.html": {
+    "mtime": 1793424996.5900166,
+    "seen": 1793425773.5784082,
+    "ast_hash": "19d2b362bbd7675333f9a0ea54013dd1",
+    "semantic_hash": "19d2b362bbd7675333f9a0ea54013dd1"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/blog/index.html": {
+    "mtime": 1793424996.5910203,
+    "seen": 1793425773.5784082,
+    "ast_hash": "e87f3afc4191cd2683f1f57808bae6d1",
+    "semantic_hash": "e87f3afc4191cd2683f1f57808bae6d1"
+  },
+  "RepoLens/repositories/flask/examples/tutorial/flaskr/templates/blog/update.html": {
+    "mtime": 1793424996.5918682,
+    "seen": 1793425773.5784082,
+    "ast_hash": "295ac51084b4a7305b043c9a9fa8d2ce",
+    "semantic_hash": "295ac51084b4a7305b043c9a9fa8d2ce"
+  },
+  "RepoLens/repositories/flask/src/flask/sansio/README.md": {
+    "mtime": 1793424996.6075785,
+    "seen": 1793425773.5784082,
+    "ast_hash": "56f725f81c50187ec4bb8b1c0d7b7c75",
+    "semantic_hash": "56f725f81c50187ec4bb8b1c0d7b7c75"
+  },
+  "RepoLens/repositories/flask/tests/static/index.html": {
+    "mtime": 1793424996.6160233,
+    "seen": 1793425773.5784082,
+    "ast_hash": "3b25e7a8f06eef60ab6a276711d679ec",
+    "semantic_hash": "3b25e7a8f06eef60ab6a276711d679ec"
+  },
+  "RepoLens/repositories/flask/tests/templates/_macro.html": {
+    "mtime": 1793424996.6170282,
+    "seen": 1793425773.5784082,
+    "ast_hash": "a8c214f641cdc111a0d37b8500bf4002",
+    "semantic_hash": "a8c214f641cdc111a0d37b8500bf4002"
+  },
+  "RepoLens/repositories/flask/tests/templates/context_template.html": {
+    "mtime": 1793424996.6180563,
+    "seen": 1793425773.5784082,
+    "ast_hash": "044dc6e473ea61971311629ca905f42e",
+    "semantic_hash": "044dc6e473ea61971311629ca905f42e"
+  },
+  "RepoLens/repositories/flask/tests/templates/escaping_template.html": {
+    "mtime": 1793424996.6180563,
+    "seen": 1793425773.5784082,
+    "ast_hash": "080b91d693e470327615dadf6bdf7424",
+    "semantic_hash": "080b91d693e470327615dadf6bdf7424"
+  },
+  "RepoLens/repositories/flask/tests/templates/mail.txt": {
+    "mtime": 1793424996.6180563,
+    "seen": 1793425773.5784082,
+    "ast_hash": "4833bb5792795ca93f9fa598b3c5d0a5",
+    "semantic_hash": "4833bb5792795ca93f9fa598b3c5d0a5"
+  },
+  "RepoLens/repositories/flask/tests/templates/nested/nested.txt": {
+    "mtime": 1793424996.6193044,
+    "seen": 1793425773.5784082,
+    "ast_hash": "755e6eb8d13cc4dad45916361bc90fc1",
+    "semantic_hash": "755e6eb8d13cc4dad45916361bc90fc1"
+  },
+  "RepoLens/repositories/flask/tests/templates/non_escaping_template.txt": {
+    "mtime": 1793424996.620309,
+    "seen": 1793425773.5784082,
+    "ast_hash": "b4ff43407849ca0d1f71ccfdc2b34111",
+    "semantic_hash": "b4ff43407849ca0d1f71ccfdc2b34111"
+  },
+  "RepoLens/repositories/flask/tests/templates/simple_template.html": {
+    "mtime": 1793424996.620309,
+    "seen": 1793425773.5784082,
+    "ast_hash": "b4ab6bca9488434352f48c4f47628feb",
+    "semantic_hash": "b4ab6bca9488434352f48c4f47628feb"
+  },
+  "RepoLens/repositories/flask/tests/templates/template_filter.html": {
+    "mtime": 1793424996.621309,
+    "seen": 1793425773.5784082,
+    "ast_hash": "d1c9d5d714a7d406010071a0e0db0844",
+    "semantic_hash": "d1c9d5d714a7d406010071a0e0db0844"
+  },
+  "RepoLens/repositories/flask/tests/templates/template_test.html": {
+    "mtime": 1793424996.621309,
+    "seen": 1793425773.5784082,
+    "ast_hash": "24843077a2b71af9902bb2d5511e2967",
+    "semantic_hash": "24843077a2b71af9902bb2d5511e2967"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/admin/static/test.txt": {
+    "mtime": 1793424996.628309,
+    "seen": 1793425773.5784082,
+    "ast_hash": "9d56120786887d861740293f332c1178",
+    "semantic_hash": "9d56120786887d861740293f332c1178"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/admin/templates/admin/index.html": {
+    "mtime": 1793424996.629351,
+    "seen": 1793425773.5784082,
+    "ast_hash": "e14908cbeb1b0078c17b1a82e535ec5d",
+    "semantic_hash": "e14908cbeb1b0078c17b1a82e535ec5d"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html": {
+    "mtime": 1793424996.6313553,
+    "seen": 1793425773.5784082,
+    "ast_hash": "69fe2c3ebe9bf8dc6a05f00fe51e584a",
+    "semantic_hash": "69fe2c3ebe9bf8dc6a05f00fe51e584a"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/cliapp/message.txt": {
+    "mtime": 1793424996.6363945,
+    "seen": 1793425773.5784082,
+    "ast_hash": "a0a3c253eb86eeee6f62b07ca21a9fd4",
+    "semantic_hash": "a0a3c253eb86eeee6f62b07ca21a9fd4"
+  },
+  "RepoLens/repositories/flask/tests/test_apps/subdomaintestmodule/static/hello.txt": {
+    "mtime": 1793424996.6398096,
+    "seen": 1793425773.5784082,
+    "ast_hash": "36e06afe256644751dde76331f0859f3",
+    "semantic_hash": "36e06afe256644751dde76331f0859f3"
+  },
+  "RepoLens/repositories/flask/docs/_static/debugger.png": {
+    "mtime": 1793424996.5059338,
+    "seen": 1793425773.5784082,
+    "ast_hash": "7b86d2b8aa167c231cd34b73fe3d6d15",
+    "semantic_hash": "7b86d2b8aa167c231cd34b73fe3d6d15"
+  },
+  "RepoLens/repositories/flask/docs/_static/flask-icon.svg": {
+    "mtime": 1793424996.5068638,
+    "seen": 1793425773.5784082,
+    "ast_hash": "855d2f8a2f557b95f9f50ec2499726ee",
+    "semantic_hash": "855d2f8a2f557b95f9f50ec2499726ee"
+  },
+  "RepoLens/repositories/flask/docs/_static/flask-logo.svg": {
+    "mtime": 1793424996.5068638,
+    "seen": 1793425773.5784082,
+    "ast_hash": "0cb2c54936a953774f03199ee50543de",
+    "semantic_hash": "0cb2c54936a953774f03199ee50543de"
+  },
+  "RepoLens/repositories/flask/docs/_static/flask-name.svg": {
+    "mtime": 1793424996.507863,
+    "seen": 1793425773.5784082,
+    "ast_hash": "17c4ea7c2e5404fac7e8652f0b22ba29",
+    "semantic_hash": "17c4ea7c2e5404fac7e8652f0b22ba29"
+  },
+  "RepoLens/repositories/flask/docs/_static/pycharm-run-config.png": {
+    "mtime": 1793424996.5088625,
+    "seen": 1793425773.5784082,
+    "ast_hash": "9cd78187039c69d9767295ac9814ce9e",
+    "semantic_hash": "9cd78187039c69d9767295ac9814ce9e"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/flaskr_edit.png": {
+    "mtime": 1793424996.5585792,
+    "seen": 1793425773.5784082,
+    "ast_hash": "625e7f0a1d8d321ae744a909eb440a86",
+    "semantic_hash": "625e7f0a1d8d321ae744a909eb440a86"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/flaskr_index.png": {
+    "mtime": 1793424996.5595834,
+    "seen": 1793425773.5784082,
+    "ast_hash": "1364b0f0a68239976c09619a2d4f9e08",
+    "semantic_hash": "1364b0f0a68239976c09619a2d4f9e08"
+  },
+  "RepoLens/repositories/flask/docs/tutorial/flaskr_login.png": {
+    "mtime": 1793424996.5595834,
+    "seen": 1793425773.5784082,
+    "ast_hash": "e90b2c64b9260990f2bd95a5354219d0",
+    "semantic_hash": "e90b2c64b9260990f2bd95a5354219d0"
+  }
+}

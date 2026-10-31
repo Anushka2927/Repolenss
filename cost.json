@@ -1,0 +1,29 @@
+{
+  "runs": [
+    {
+      "date": "2026-10-30T17:58:34.480866+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 2,
+      "token_usage_available": false,
+      "token_usage_note": "Agent usage metadata was not exposed by the task result; token counts are unknown."
+    },
+    {
+      "date": "2026-10-31T05:07:54.756811+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 2
+    },
+    {
+      "date": "2026-10-31T05:49:33.612415+00:00",
+      "input_tokens": null,
+      "output_tokens": null,
+      "files": 229,
+      "token_usage_available": false,
+      "token_usage_note": "Agent usage metadata was not exposed by the task result; token counts are unknown."
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0,
+  "unknown_usage_runs": 2
+}
